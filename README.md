@@ -5,8 +5,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nessa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  
   <img align="center" alt="Nessa-Js" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJyUEdgRMkgGHbaXMK2A0Kt5FiShIMV1xvRF8DVa90FKYNe6GAGqcb9E4tgqHw1tTpCuc&usqp=CAU">
   <img align="center" alt="Nessa-Js" height="30" width="30" border-radius="10" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png">
+  <img align="center" alt="Nessa-Js" height="30" width="30" src="https://p.kindpng.com/picc/s/176-1766682_dart-programming-language-hd-png-download.png">
   
   </div>
 
