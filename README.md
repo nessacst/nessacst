@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/nessacst">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nessacst&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessacst&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nessacst&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nessacst&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nessa-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
